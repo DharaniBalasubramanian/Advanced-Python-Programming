@@ -1,0 +1,9 @@
+2024-09-30 12:34:56 ERROR 192.168.1.1 Failed to connect to database
+2024-09-30 12:35:00 INFO 192.168.1.2 User login successful
+2024-09-30 12:35:05 WARNING 192.168.1.3 Disk space low
+2024-09-30 12:35:10 ERROR 192.168.1.1 Timeout while reading data
+2024-09-30 12:36:00 INFO 192.168.1.4 Service started
+2024-09-30 12:36:15 WARNING 192.168.1.3 Disk space critically low
+2024-09-30 12:37:00 ERROR 192.168.1.5 Unauthorized access attempt
+2024-09-30 12:37:30 INFO 192.168.1.6 Backup completed successfully
+2024-09-30 12:38:10 ERROR 192.168.1.5 Failed to authenticate user
