@@ -1,4 +1,3 @@
-# statistics.py
 from scipy import stats
 
 def correlation(df, col1, col2):

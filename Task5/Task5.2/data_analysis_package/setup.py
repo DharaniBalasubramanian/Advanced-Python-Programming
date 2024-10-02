@@ -1,4 +1,3 @@
-# setup.py defines how the package is installed.
 from setuptools import setup, find_packages
 
 setup(

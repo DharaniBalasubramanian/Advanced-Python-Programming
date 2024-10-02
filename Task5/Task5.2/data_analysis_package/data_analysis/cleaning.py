@@ -1,4 +1,3 @@
-# cleaning.py
 import pandas as pd
 
 def fill_missing(df, method='mean'):

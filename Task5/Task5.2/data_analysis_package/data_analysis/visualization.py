@@ -1,4 +1,3 @@
-# visualization.py
 import matplotlib.pyplot as plt
 
 def plot_histogram(data, column):
